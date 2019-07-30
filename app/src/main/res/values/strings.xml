@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDeepNavigation</string>
+    <string name="open_detail">Open Detail</string>
+    <string name="detail_activity">Detail</string>
+</resources>
